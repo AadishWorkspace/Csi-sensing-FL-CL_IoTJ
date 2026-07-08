@@ -1,1 +1,1 @@
-ran using t4 gpu on kaggle
+executed using t4 gpu on kaggle
